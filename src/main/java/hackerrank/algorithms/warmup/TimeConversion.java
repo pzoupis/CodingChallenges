@@ -42,9 +42,4 @@ public class TimeConversion {
         result = hours + ":" + minutes + ":" + seconds;
         return result;
     }
-
-    public static void main(String[] args) {
-        System.out.println(timeConversion("12:01:02PM"));
-        System.out.println(timeConversion("12:01:02AM"));
-    }
 }
