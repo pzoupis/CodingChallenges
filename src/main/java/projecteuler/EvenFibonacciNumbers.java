@@ -23,6 +23,6 @@ public class EvenFibonacciNumbers {
     }
 
     public static void main(String[] args) {
-        System.out.println(evenFibonacciNumbers(4_000_000));;
+        System.out.println(evenFibonacciNumbers(4_000_000));
     }
 }
