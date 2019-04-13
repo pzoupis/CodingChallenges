@@ -1,3 +1,4 @@
 target/
 .idea/
 codingchallenges.iml
+.DS_Store
