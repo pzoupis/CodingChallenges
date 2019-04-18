@@ -35,7 +35,7 @@ public class BonAppetitTest {
         int k = 1;
         int b = 12;
 
-        String expectedResult = "5\n";
+        String expectedResult = "5";
 
         BonAppetit.bonAppetit(bill, k, b);
         String actualResult = outContent.toString();
@@ -54,7 +54,7 @@ public class BonAppetitTest {
         int k = 1;
         int b = 7;
 
-        String expectedResult = "Bon Appetit\n";
+        String expectedResult = "Bon Appetit";
 
         BonAppetit.bonAppetit(bill, k, b);
         String actualResult = outContent.toString();

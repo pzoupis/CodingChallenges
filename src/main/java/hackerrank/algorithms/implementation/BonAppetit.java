@@ -17,9 +17,9 @@ public class BonAppetit {
         }
 
         if (sum / 2 == b) {
-            System.out.println("Bon Appetit");
+            System.out.print("Bon Appetit");
         } else {
-            System.out.println(b - sum / 2);
+            System.out.print(b - sum / 2);
         }
     }
 }
